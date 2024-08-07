@@ -44,10 +44,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.DiscoveryServiceApplication">
     <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="DiscoveryService" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.movieapp.discovery.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="UsersApi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.movieapp.users.api.UsersApiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723034977941</updated>
-      <workItem from="1723034979030" duration="793000" />
+      <workItem from="1723034979030" duration="1182000" />
     </task>
     <servers />
   </component>
